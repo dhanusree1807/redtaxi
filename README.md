@@ -65,4 +65,4 @@ Favorites and History:
 Localization and Language Support:
 14.1 Adapt services to local regulations and cultural norms
 14.2 Multilanguage support.
-logout
+logout 
