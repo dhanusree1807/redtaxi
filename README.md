@@ -36,7 +36,7 @@ Payment:
 Booking:
 6.1 Select pickup and drop-off locations
 6.2 Specify ride preferences (e.g., vehicle type, payment method)
-6.3 Provide special instructions or requests
+6.3Providespecial instructions or requests
 Promotions and Discounts:
 7.1 Manage promotion and discounts
 7.2 Apply discounts or offers to rides
@@ -46,8 +46,8 @@ Search:
 Tracking and Navigation:
 9.1 Real-time tracking of assigned taxis
 9.2 Provide navigation assistance to drivers and passengers
-9.3 Estimate arrival time and route optimization
-Customer Support:
+9.3 Estimate arrival time and route
+optimizationCustomer Support:
 10.1 Help center for passenger queries and support
 10.2 Feedback and grievance system for passengers to report issues
 10.3 Support for resolving driver-related concerns
@@ -55,12 +55,12 @@ Ratings and Reviews:
 11.1 Allow passengers to rate and review their ride experience
 11.2 Provide feedback to drivers for continuous improvement
 11.3 Display aggregate ratings for drivers and overall service quality
-Safety and Security:
+Safety andSecurity:
 12.1 Implement safety features such as SOS button for emergencies
 12.2 Verify passenger identity for secure transactions
 Favorites and History:
-13.1 Bookmark favorite locations or frequent destinations
-13.2 View ride history and access past booking details
+13.1 Bookmarkfavoritelocationsorfrequentdestinations
+13.2Viewridehistory and access past booking details
 13.3 Receive personalized recommendations based on ride history and preferences
 Localization and Language Support:
 14.1 Adapt services to local regulations and cultural norms
